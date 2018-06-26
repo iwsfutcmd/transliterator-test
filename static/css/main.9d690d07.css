@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}#main-block{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row}#rules{inline-size:50%;block-size:100vh}#tests{-ms-flex-direction:row;flex-direction:row}#tests,#tests>div{display:-ms-flexbox;display:flex}#tests>div{-ms-flex-direction:column;flex-direction:column}.line{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row}.line>input{-webkit-margin-end:16px;margin-inline-end:16px}.Cyrl{color:darkred}.Latn{color:#00008b}
+/*# sourceMappingURL=main.9d690d07.css.map*/
