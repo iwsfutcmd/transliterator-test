@@ -1,0 +1,44 @@
+.App {
+  /* block-size: 100%; */
+}
+
+#main-block {
+  display: flex;
+  flex-direction: row;
+}
+
+#rules {
+  inline-size: 50%;
+  block-size: 100vh;
+}
+
+#tests {
+  display: flex;
+  flex-direction: row;
+}
+
+#tests > div {
+  display: flex;
+  flex-direction: column;
+}
+
+/* #inputs > input {
+  background-color: red;
+} */
+
+.line {
+  display: flex;
+  flex-direction: row;
+}
+
+.line > input {
+  margin-inline-end: 16px;
+}
+
+.Cyrl {
+  color: darkred;
+}
+
+.Latn {
+  color: darkblue;
+}
