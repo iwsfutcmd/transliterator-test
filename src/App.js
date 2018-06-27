@@ -9,6 +9,7 @@ const INITIALINPUTS = [
   "пырыс",
   "Азий",
   "дикобраз",
+  "Тӱҥ",
 ];
 
 class ColoredText extends Component {
